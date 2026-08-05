@@ -1,0 +1,26 @@
+{
+  "name": "k6-grpc-stream",
+  "version": "0.0.1",
+  "description": "Promise-based gRPC streaming helpers and async/await wrappers for Grafana k6",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiocarneiro/k6-grpc-stream.git"
+  },
+  "keywords": [
+    "k6",
+    "grpc",
+    "grpc-stream",
+    "promises",
+    "async-await",
+    "testing",
+    "performance-testing"
+  ],
+  "author": "Fabio Carneiro",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/k6": "*",
+    "typescript": "^5.0.0"
+  }
+}
