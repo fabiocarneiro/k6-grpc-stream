@@ -1,6 +1,6 @@
 {
   "name": "k6-grpc-stream",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Promise-based gRPC streaming helpers and async/await wrappers for Grafana k6",
   "main": "src/index.js",
   "types": "src/index.d.ts",
